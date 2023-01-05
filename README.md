@@ -1,11 +1,11 @@
-# SetFit
+# SetFit_Sklearn
 
 A scikit-learn API version of a SetFit classifier. Model originally developed by [Moshe Wasserblat](https://twitter.com/MosheWasserblat).
 
 ## Use
 
 ```python
-from setfit import SetFitClassifier
+from setfit_sklearn import SetFitClassifier
 docs = ["yay", "boo", "yes", "no", "yeah"]
 labels = [1, 0, 1, 0, 1]
 

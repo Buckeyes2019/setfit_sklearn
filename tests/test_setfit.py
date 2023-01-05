@@ -1,4 +1,4 @@
-from src.setfit import __version__, SetFitClassifier
+from src.setfit_sklearn import __version__, SetFitClassifier
 from sklearn.exceptions import NotFittedError
 import pytest
 import numpy as np
