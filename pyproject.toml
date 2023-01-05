@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "setfit"
+name = "setfit_sklearn"
 version = "0.1.4"
 description = ""
 authors = ["Peter Baumgartner"]
