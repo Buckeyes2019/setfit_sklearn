@@ -19,7 +19,7 @@ array([1, 0])
 ```
 
 ## Installation
-```pip install git+https://github.com/pmbaumgartner/setfit```
+```pip install git+https://github.com/Buckeyes2019/setfit_sklearn```
 
 ## References
 [Original Blog Post](https://moshewasserblat.medium.com/sentence-transformer-fine-tuning-setfit-outperforms-gpt-3-on-few-shot-text-classification-while-d9a3788f0b4e) ([Archived](http://archive.today/Kelkb))
